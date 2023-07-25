@@ -21,11 +21,10 @@ const styles = StyleSheet.create({
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
-    padding: '30px',
     backgroundColor: '#999999'
   },
   app_text: {
-    fontSize: '18px',
+    fontSize: '16px',
     color: 'white',
   }
 })
